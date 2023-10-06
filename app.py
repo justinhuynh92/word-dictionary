@@ -1,5 +1,8 @@
 # check if the word is in the dictionary
 # print the definition
+from PyDictionary import PyDictionary
+
+dictionary = PyDictionary()
 
 # have a python dictionary that has a key, value pair that represents a word and it's definition
 def main():
